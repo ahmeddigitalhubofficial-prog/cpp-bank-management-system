@@ -1,0 +1,16 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+bin/
+obj/
+build/
+.vscode/
+.idea/
+
+# Local databases
+bank_accounts.txt
+bank_users.txt
+

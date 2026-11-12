@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778139222 source:d:\codespark\c++\c++ projects\bank system\main.cpp
+	<iostream>
+	<vector>
+
